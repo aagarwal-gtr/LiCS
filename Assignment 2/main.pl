@@ -1,16 +1,3 @@
-/*
-Logic in Computer Science CS F214
-Assignment No. 2
-
-Abhinav Agarwal
-2013A7PS124P
-
-Varun Vasudevan
-2013A7PS103P
-
-Section No. 2
-*/
-
 /*Article 1*/
 /*Section 6*/
 

@@ -1,18 +1,3 @@
-/*
-Logic in Computer Science CS F214
-Assignment No. 2
-
-Abhinav Agarwal
-2013A7PS124P
-
-Varun Vasudevan
-2013A7PS103P
-
-Section No. 2
-*/
-
-Brief: Write a Prolog program for codifying Article I : Sections 6 to 8 of the Constitution of the U.S.
-
 The nine queries, covering all clauses from sections 6-8, formulated by us are below.
 Please follow query formats as specified below in the explanations and examples..
 Press ';' when runing queries with multiple possible outputs.
